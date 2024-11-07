@@ -72,3 +72,5 @@ services:
       MTX_PATHS_LIVE_SOURCE: "udp://rtsp_server:1234"
       MTX_PATHS_PARTY_SOURCE: "udp://rtsp_server:1235"
       MTX_PATHS_MOVIE_SOURCE: "udp://rtsp_server:1236"
+      MTX_PATHDEFAULTS_PUBLISHUSER: changeMePublishUser
+      MTX_PATHDEFAULTS_PUBLISHPASS: changeMePublishPass
